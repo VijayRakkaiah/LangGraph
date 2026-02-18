@@ -1,0 +1,10 @@
+# Specific ignores (recommended instead of global .*)
+.env
+.venv
+.DS_Store
+.idea/  # PyCharm project folder
+.vscode/
+.ipynb_checkpoints/
+**/__pycache__/
+!.gitignore
+!.gitattributes
